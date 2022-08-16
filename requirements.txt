@@ -2,5 +2,5 @@ django==2.2
 djangorestframework
 django-rest-knox
 gunicorn==20.1.0
-whitenoisewhitenoise==6.2.0
+whitenoise==6.2.0
 django-cors-headers==3.12.0
